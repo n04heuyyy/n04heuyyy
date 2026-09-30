@@ -1,7 +1,5 @@
 # Hi, I'm Nathanael Noah Purwoadi! 👋
-**[Role Utama, contoh: 3D Artist & Game Developer]**
-
-Saya fokus pada perancangan aset 3D low-poly serta pengembangan game berbasis Unity. Tertarik membangun pengalaman visual yang minimalis, fungsional, dan interaktif.
+**Handles EUYSKUYYY on itch.io**
 
 ---
 
