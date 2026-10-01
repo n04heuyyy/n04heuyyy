@@ -15,7 +15,7 @@
 | :--- | :--- |
 | <img src="assets/euybattle.gif" width="100%" alt="Preview Project 3" /> | <img src="assets/euybattle.gif" width="100%" alt="Preview Project 4" /> |
 | This game is still processing... (Preview is just placeholder) | Euyskuyyy Battlefield is a customized WW2-themed 2D turn-based strategy game where you command units to victory. Features many different units from different factions, skirmish maps, and a bot AI to play with. |
-| 🔗 [Demo / Play](#) · [Repository](#) | 🔗 [Demo / Play](#) · [Repository](https://github.com/n04heuyyy/euyskuyyy_battlefield) |
+| 🔗 [Play on itch.io](#) · [Repository here](#) | 🔗 [Play on itch.io](#) · [Repository here](https://github.com/n04heuyyy/euyskuyyy_battlefield) |
 
 **About Me: Game Developer (Specializion: Game Design & Programming)**
 
