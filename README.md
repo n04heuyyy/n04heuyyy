@@ -5,20 +5,20 @@
 
 ### 🚀 Featured Projects
 
-| **Project 01** | **Project 02** |
+| **Chimmy Collect Crystal (2026)** | **Euyskuyyy Jigsaw (2026)** |
 | :--- | :--- |
-| <img src="assets/euyccc.gif" width="300" alt="Preview Project 1" /> | <img src="assets/euyjigsaw.gif" width="300" alt="Preview Project 2" /> |
-| **[Nama Proyek 1]**<br>Deskripsi singkat 1-2 kalimat mengenai fokus proyek, tools yang dipakai, atau mekanik utama. | **[Nama Proyek 2]**<br>Deskripsi singkat 1-2 kalimat mengenai fokus proyek, tools yang dipakai, atau mekanik utama. |
-| 🔗 [Demo / Play](#) · [Repository](#) | 🔗 [Demo / Play](#) · [Repository](#) |
+| <img src="assets/euyccc.gif" width="100%" alt="Preview Project 1" /> | <img src="assets/euyjigsaw.gif" width="100%" alt="Preview Project 2" /> |
+| Chimmy Collect Crystal a remade Scratch game in Unity where you collect crystals and avoiding flying cats for some reason. Features a new mode with items, leaderboard, and some improvements. | Euyskuyyy Jigsaw isn't your usual jigsaw- it has animated moving objects that's somewhat challenging. Features grid size and object speed options, records, and a custom pack editor where you can insert your own images inside. |
+| 🔗 [Play on itch.io](https://euyskuyyy.itch.io/chimmy-collect-crystal) · [Repository here](https://github.com/n04heuyyy/chimmy_collect_crystal) | 🔗 [Play on itch.io](https://euyskuyyy.itch.io/euyskuyyy-jigsaw) · [Repository here](https://github.com/n04heuyyy/euyskuyyy_jigsaw) |
 
-| **Project 03** | **Project 04** |
+| **Project 03 (WIP)** | **Euyskuyyy Battlefield (WIP)** |
 | :--- | :--- |
-| <img src="assets/project3-thumb.png" width="300" alt="Preview Project 3" /> | <img src="assets/euybattle.gif" width="300" alt="Preview Project 4" /> |
-| **[Nama Proyek 3]**<br>Deskripsi singkat 1-2 kalimat mengenai fokus proyek, tools yang dipakai, atau mekanik utama. | **[Nama Proyek 4]**<br>Deskripsi singkat 1-2 kalimat mengenai fokus proyek, tools yang dipakai, atau mekanik utama. |
-| 🔗 [Demo / Play](#) · [Repository](#) | 🔗 [Demo / Play](#) · [Repository](#) |
+| <img src="assets/euybattle.gif" width="100%" alt="Preview Project 3" /> | <img src="assets/euybattle.gif" width="100%" alt="Preview Project 4" /> |
+| This game is still processing... (Preview is just placeholder) | Euyskuyyy Battlefield is a customized WW2-themed 2D turn-based strategy game where you command units to victory. Features many different units from different factions, skirmish maps, and a bot AI to play with. |
+| 🔗 [Demo / Play](#) · [Repository](#) | 🔗 [Demo / Play](#) · [Repository](https://github.com/n04heuyyy/euyskuyyy_battlefield) |
 
-**[Role Utama, contoh: 3D Artist & Game Developer]**
+**About Me: Game Developer (Specializion: Game Design & Programming)**
 
-Saya fokus pada perancangan aset 3D low-poly serta pengembangan game berbasis Unity. Tertarik membangun pengalaman visual yang minimalis, fungsional, dan interaktif.
+I can solo-develop games but mainly specialized in designing games and programming them in Unity. Interested in trying out different game engines and applying some quirky ideas. With the rise of AI nowadays, I usually use some AI for game vibe coding, but everything else are done original style.
 
 ---
